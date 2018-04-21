@@ -1,0 +1,59 @@
+.slider_wrapper img{width: 100%; max-height: 656px;}
+
+
+.faetureplan_heading{padding: 0 60px;}
+.faetureplan_block{width: 16%;display: inline-block;margin-right: 0.52%;}
+.faetureplan_block:last-child{margin-right: 0px;}
+.faetureplan_profile img{width: 100%;}
+.faetureplan_block_detail{border: solid 2px #979797;  padding: 15px 10px;}
+.faetureplan_block_detail h3{font-size: 20px; color: #5e5e5e; font-weight: 600; margin: 0px;}
+.faetureplan_block_detail p{font-size: 13px; color: #5e5e5e; font-style: italic;margin: 0px;}
+.planner_required{line-height: 15px;margin: 8px 0 10px;}
+.planner_required span{font-size: 10px; color: #5e5e5e; margin-right: 12px;}
+.planner_required span:last-child{margin: 0px;}
+.faetureplan_location{font-size: 12px !important; font-style: normal !important;}
+.faetureplan_block_detail h4{font-size: 20px; color: #5e5e5e; font-weight: 600;text-align: right;margin: 15px 0 0;}
+.faetureplan_block_detail h4 span{font-size: 13px; color: #5e5e5e; }
+.faetureplan_block_rating{float: right;}
+.faetureplan_location img{margin-right: 5px;}
+.rating_count{font-size: 14px; margin-left: 4px;}
+
+
+.feature_wrapper{padding: 0 60px;}
+.section_heading_rtl img{float: right;}
+.section_heading_rtl h1{float: right;}
+.section_heading_rtl .head_border{margin-right: 44px; margin-left: 0px;}
+.feature_block{position: relative; text-align: center;}
+.feature_block h1{position: absolute; font-size: 80px; color: #fff; top: 18%; width: 100%;}
+.single_txt h1{top: 28%;}
+.feature_block img{width: 100%;}
+.feature_block p{text-align: right; font-size: 20px; color: #5e5e5e;}
+
+/* One trip section css */
+.section_heading{margin: 50px 0; overflow: hidden;}
+.head_border{border-bottom: solid 1px #b1b1b1; width: 59%;display: inline-block;margin-left: 44px; margin-bottom: 0px;margin-top: 25px;}
+.section_heading img{display: inline-block;}
+.section_heading h1{display: inline-block; vertical-align: middle; margin: 0 25px 0; font-size: 30px; color: #5e5e5e; font-weight: bold;} 
+.tripplace_wrapper{padding: 0 60px; }
+.trip_block{margin-bottom: 72px;}
+.trip-content{margin-top: 5px;}
+.place_heading{display: flex;}
+.place_name{width: 82%;}
+.place_name p{font-size: 20px; color: #5e5e5e; margin: 0px;}
+.place_name p span{margin-left: 50px;}
+.place_name h2{font-size: 30px; color: #5e5e5e; font-weight: bold;}
+.request_blog button{background-color: #ff941e; color: #fff;padding: 5px 24px 8px;border-radius: 6px;margin-top: 42px;}
+.place_content p{font-size: 20px; color: #5e5e5e; margin: 20px 0;}
+.triprating_block p{font-size: 20px; color: #5e5e5e; margin: 0px;}
+.triprating_block p span{font-size: 12px; color: #4a4a4a; margin-left: 20px;}
+/* End One trip section css */
+
+ /* Week plan section css */
+.weekplan_wrapper{padding: 40px 60px; border-top:solid 4px #ff941e; border-bottom:solid 4px #ff941e;}
+.weekplan_content h2{font-size: 36px; color: #5e5e5e;line-height: 50px;margin-bottom: 22px;}
+.weekplan_content h2 span{display: block; color: #948db3;}
+.weekplan_content p{font-size: 20px; color: #5e5e5e; margin: 0px;}
+.weekplan_icon{text-align: right; margin-top: 45px;}
+.weekplan_icon img{padding: 0 11px;}
+.weekplan_icon img:last-child{padding-right: 0px;}
+/* End Week plan section css */

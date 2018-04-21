@@ -1,0 +1,18 @@
+.login_box{padding: 70px 75px;}
+.login_box .form-group{margin-bottom: 22px;}
+.login_box input{min-height: 58px;}
+.my_checkboxes input{min-height: auto;}
+.my_checkboxes label{color: #5e5e5e; font-size: 14px; vertical-align: middle;}
+.close{position: absolute; top: 15px;right: 30px; color: #ff941e;}
+.forgot{text-align: right;}
+.forgot a{color: #ff941e;font-size: 14px;}
+.login_btn{width: 100%;background-color: #ff941e;color: #fff;padding: 14px 25px; font-size: 18px;height: 57px;}
+.fb_btn{background-color: #3b5998;}
+.google_btn{border:solid 1px #797979; color: #797979; background-color: transparent;margin: 22px 0 55px;}
+.login_btn img{float: left;position: relative;top: -5px;}
+.signup_account{font-size: 18px; color: #5e5e5e;text-align: center;margin: 0;}
+.signup_account a{color: #ff941e;}
+.login_box fieldset {display: block;padding: 0px 25% 0px 25%;border-top: solid 1px #bebebe;text-align: center;margin: 30px 130px;}
+.login_box fieldset legend{font-size: 18px; color: #5e5e5e;}
+.remember{margin-bottom: 25px;}
+a:hover{text-decoration: none;}
